@@ -1,6 +1,6 @@
 package oop;
 
-public class Car {
+public class Car extends Vehicle {
     private String type;
     private String brand;
     private String color;
